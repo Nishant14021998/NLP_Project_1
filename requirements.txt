@@ -1,0 +1,5 @@
+pandas
+ftfy
+unidecode
+spacy
+nltk
